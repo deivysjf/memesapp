@@ -37,7 +37,7 @@ function App() {
           <option value="futurama">Futurama</option>
           <option value="history">History Channel</option>
           <option value="matrix">Matrix</option>
-          <option value="philosoraptor">Philosoraptor</option>
+          <option value="Philosoraptor">Philosoraptor</option>
           <option value="Smartguy">Smart Guy</option>
         </select> <br />
         <input className='inputBox' onChange={onchangeLinea1} type="text" placeholder='Write Your Top Text Here' />
