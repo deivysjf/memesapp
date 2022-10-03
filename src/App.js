@@ -46,7 +46,7 @@ function App() {
       <div className="memes" id='meme'>
         <span>{linea1}</span>
         <span className='spanBottom'>{linea2}</span>
-        <img src={"/img/" + images + ".jpg"} />
+        <img src={"/memesapp/img/" + images + ".jpg"} />
       </div>
       <button onClick={onChangeExport}>Make MEME</button>
     </div>
